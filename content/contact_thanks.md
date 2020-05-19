@@ -6,4 +6,4 @@ images: ["img/pavan-trikutam-71CjSSB83Wo-unsplash.jpg"]
 tags: ""
 draft: false
 ---
-Thanks for touching base with us. Someone from **Alpha** *Church* will be in touch soon.
+Thanks for touching base with us. Someone from Downers Grove will be in touch soon.
