@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://vigilant-austin-092443.netlify.app/"
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
