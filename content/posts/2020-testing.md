@@ -6,7 +6,7 @@ tags:
   - to be deleted
 author: Chris Stayte
 ---
-![](img/img_1269.jpg)
+![]()
 
 Lorem ipsum dolor sit amet, dictas recteque maiestatis eum an. Tempor tractatos per et, te duo essent audire. Nam solum malorum ex. Alia elaboraret cu cum. Eum soluta recusabo complectitur ut.
 
