@@ -1,4 +1,4 @@
-baseURL = "http://arjetton.github.io/"
+baseURL = ""
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
