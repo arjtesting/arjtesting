@@ -16,3 +16,5 @@ Romans 5:4
 II Tim. 2:15
 
 Psalm 23
+
+Jude 3
