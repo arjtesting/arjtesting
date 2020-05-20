@@ -1,14 +1,14 @@
 ---
-title: "Sift You Like Wheat"
-date: 2015-07-12T10:05:49+10:00
-author: "Bob Alley"
+title: Sift You Like Wheat
+date: 2015-07-12T00:05:49.000Z
+tags:
+  - trials
+author: Bob Alley
 draft: false
-tags: ["trials"]
 ---
+**There is a mean and anti-Christian temperament that exists and those who would feel proud to stand against moral values and righteousness are vocal and visible. Professing to be godless is not a characteristic looked down upon but rather it seems it is boasted about. The lingering bitterness against the followers of Christ, is prevalent in all areas of society.**
 
-There is a mean and anti-Christian temperament that exists and those who would feel proud to stand against moral values and righteousness are vocal and visible. Professing to be godless is not a characteristic looked down upon but rather it seems it is boasted about. The lingering bitterness against the followers of Christ, is prevalent in all areas of society.
-
-This is typical of the enemies of God that we read about in the Bible even though it seems like modern-day attitudes. Throughout the Old Testament and New Testament these enemies of God and then Christ were actively trying to devour or totally overwhelm the “good” people with their evil lifestyle. The temptations were abundant to join in their debauchery, and the threats were many. The “lions” of the community would not tolerate the presence of a lamb of God in their midst without paying a tribute to the government.
+*This is typical of the enemies of God that we read about in the Bible even though it seems like modern-day attitudes. Throughout the Old Testament and New Testament these enemies of God and then Christ were actively trying to devour or totally overwhelm the “good” people with their evil lifestyle. The temptations were abundant to join in their debauchery, and the threats were many. The “lions” of the community would not tolerate the presence of a lamb of God in their midst without paying a tribute to the government.*
 
 The anti-Christian fervor in the New Testament kept everyone in a state of agitated animosity to rid them of the one who could perform miracles in the name of God and they could not. Ridding themselves of the one who could preach with authority where they could not was their highest priority.
 
